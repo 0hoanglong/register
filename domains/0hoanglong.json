@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/0hoanglong/0hoanglong.github.io",
+
+  "owner": {
+    "username": "0hoanglong",
+    "email": "kamalong.gamer@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "0hoanglong", 
+       "value": "0hoanglong.github.io"
+     }
+  },
+
+  "proxied": false
+}
